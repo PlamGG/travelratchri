@@ -5,9 +5,12 @@ Live
 https://travelratchri.vercel.app/
 
 Description
+
 This project is a tourism web application that provides detailed information on tourist attractions, restaurants, cafes, and blog articles in Ratchaburi, Thailand. Users can search for attractions, view details, explore maps, and plan their trips. Additionally, the blog section offers articles related to local travel experiences and activities.
 
 Features
+
+
 Display a list of tourist attractions with search and filter options.
 View detailed information about each attraction, including location, ratings, gallery, and visitor reviews.
 Interactive map for planning visits to various locations.
