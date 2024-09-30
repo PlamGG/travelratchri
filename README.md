@@ -20,3 +20,8 @@ API/Utils: Custom utility functions for fetching tourist attraction data
 Icons: Lucide React (MapPin, Star, Share2, ThumbsUp icons)
 Map: Integrated Google Maps (or another mapping service)
 Weather: Custom Weather Widget component
+
+
+
+
+![image](https://github.com/user-attachments/assets/cfaa4c28-33e3-4a50-a2fa-341d26b503ed)
